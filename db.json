@@ -1,0 +1,16 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "Shailesh K",
+      "content" : "Kya karega jaan k!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
