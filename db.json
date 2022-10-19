@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "dogs": [
     {
-      "id" : 0,
-      "title": "Shailesh K",
-      "content" : "Kya karega jaan k!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
